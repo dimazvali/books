@@ -1,2 +1,2 @@
 # books
-shelfCareBot
+https://t.me/shelfCareBot
